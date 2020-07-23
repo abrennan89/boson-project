@@ -1,0 +1,3 @@
+:moduledir: ..
+:branch: master
+:github-repo: https://github.com/boson-project/docs.git

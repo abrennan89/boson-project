@@ -1,0 +1,7 @@
+name: docs
+title: Boson Project
+version: master
+nav:
+  - modules/ROOT/nav.adoc
+
+start_ROOT: ROOT:index.adoc
