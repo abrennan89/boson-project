@@ -1,7 +1,17 @@
 name: docs
 title: Boson Project
-version: master
+version: Developer Preview
 nav:
   - modules/ROOT/nav.adoc
 
 start_ROOT: ROOT:index.adoc
+
+#
+# name: component-a
+# title: Component A
+# version: '1.0'
+# start_page: module:filename.adoc
+# nav:
+# - modules/ROOT/nav.adoc
+# - modules/module-three/nav.adoc
+# - ...
